@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-updated files
-=======
 welcome to github
 here i am creating one text file
 hiii..!!!!
->>>>>>> main
+updated files
